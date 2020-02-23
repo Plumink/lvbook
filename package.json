@@ -1,0 +1,22 @@
+{
+  "name": "lvbook",
+  "version": "1.0.0",
+  "description": "This is my book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvshufeng520/lvbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvshufeng520/lvbook/issues"
+  },
+  "homepage": "https://github.com/lvshufeng520/lvbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
